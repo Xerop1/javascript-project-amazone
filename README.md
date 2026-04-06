@@ -1,1 +1,1 @@
-# javascript-project-amazone
+# javascript-project-amazon
